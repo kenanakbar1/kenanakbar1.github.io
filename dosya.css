@@ -1,0 +1,31 @@
+body{
+    background-color: darkseagreen;
+}
+#form{
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+#but-first{
+    width: 100px;
+    margin-bottom: 40px;
+    margin-left: 65px;
+    background-color: orange;
+    outline: none;
+    border: none;
+}
+
+
+#form-input:hover{
+    border-bottom-color: orange ;
+
+}
+#but-submit{
+    background-color: orange;
+    border: none;
+    outline: none;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
